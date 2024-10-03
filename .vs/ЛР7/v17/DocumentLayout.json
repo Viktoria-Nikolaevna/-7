@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0438\u0441\\1_\u043D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0441\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u043F\u0430\u043E\u043A\u0438\u043D\\pk\u0438\u0441\\\u043B\u04407\\customcontrols\\prognosisweather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:customcontrols\\prognosisweather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0438\u0441\\1_\u043D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0441\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u043F\u0430\u043E\u043A\u0438\u043D\\pk\u0438\u0441\\\u043B\u04407\\customcontrols\\prognosisweather.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:customcontrols\\prognosisweather.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0438\u0441\\1_\u043D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0441\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u043F\u0430\u043E\u043A\u0438\u043D\\pk\u0438\u0441\\\u043B\u04407\\windows\\showweatherattimewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:windows\\showweatherattimewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\datamodel\\prognosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:datamodel\\prognosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\customcontrols\\weathercustomcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:customcontrols\\weathercustomcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\classes\\complexweatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:classes\\complexweatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\customcontrols\\weathercustomcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:customcontrols\\weathercustomcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\windows\\showweatherwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:windows\\showweatherwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\windows\\showweatherattimewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:windows\\showweatherattimewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\datamodel\\modelef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:datamodel\\modelef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\windows\\addweatherwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:windows\\addweatherwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00549833-85AD-4A31-A132-9D5D4B27C7C9}|\u041B\u04207.csproj|solutionrelative:windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrognosisWeather.xaml",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\CustomControls\\PrognosisWeather.xaml",
+              "RelativeDocumentMoniker": "CustomControls\\PrognosisWeather.xaml",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\CustomControls\\PrognosisWeather.xaml",
+              "RelativeToolTip": "CustomControls\\PrognosisWeather.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T11:38:34.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomControls\\PrognosisWeather.xaml.cs",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\CustomControls\\PrognosisWeather.xaml.cs",
+              "RelativeDocumentMoniker": "CustomControls\\PrognosisWeather.xaml.cs",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\CustomControls\\PrognosisWeather.xaml.cs",
+              "RelativeToolTip": "CustomControls\\PrognosisWeather.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:22:03.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowWeatherAtTimeWindow.xaml.cs",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\ShowWeatherAtTimeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\ShowWeatherAtTimeWindow.xaml.cs",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\ShowWeatherAtTimeWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\ShowWeatherAtTimeWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:24:52.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prognosis.cs",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\DataModel\\Prognosis.cs",
+              "RelativeDocumentMoniker": "DataModel\\Prognosis.cs",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\DataModel\\Prognosis.cs",
+              "RelativeToolTip": "DataModel\\Prognosis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:33:47.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComplexWeatherInfo.cs",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Classes\\ComplexWeatherInfo.cs",
+              "RelativeDocumentMoniker": "Classes\\ComplexWeatherInfo.cs",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Classes\\ComplexWeatherInfo.cs",
+              "RelativeToolTip": "Classes\\ComplexWeatherInfo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwCEAAAAmAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-24T10:33:24.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherCustomControl.xaml",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\CustomControls\\WeatherCustomControl.xaml",
+              "RelativeDocumentMoniker": "CustomControls\\WeatherCustomControl.xaml",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\CustomControls\\WeatherCustomControl.xaml",
+              "RelativeToolTip": "CustomControls\\WeatherCustomControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T10:32:49.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherCustomControl.xaml.cs",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\CustomControls\\WeatherCustomControl.xaml.cs",
+              "RelativeDocumentMoniker": "CustomControls\\WeatherCustomControl.xaml.cs",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\CustomControls\\WeatherCustomControl.xaml.cs",
+              "RelativeToolTip": "CustomControls\\WeatherCustomControl.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCcAAAA3AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T11:16:12.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowWeatherWindow.xaml",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\ShowWeatherWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\ShowWeatherWindow.xaml",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\ShowWeatherWindow.xaml",
+              "RelativeToolTip": "Windows\\ShowWeatherWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T10:30:28.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowWeatherAtTimeWindow.xaml",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\ShowWeatherAtTimeWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\ShowWeatherAtTimeWindow.xaml",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\ShowWeatherAtTimeWindow.xaml",
+              "RelativeToolTip": "Windows\\ShowWeatherAtTimeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T10:30:14.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddWeatherWindow.xaml",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\AddWeatherWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\AddWeatherWindow.xaml",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\AddWeatherWindow.xaml",
+              "RelativeToolTip": "Windows\\AddWeatherWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T10:29:59.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelEF.cs",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\DataModel\\ModelEF.cs",
+              "RelativeDocumentMoniker": "DataModel\\ModelEF.cs",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\DataModel\\ModelEF.cs",
+              "RelativeToolTip": "DataModel\\ModelEF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-24T10:29:01.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\MainWindow.xaml",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T10:23:53.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\MainWindow.xaml.cs",
+              "ToolTip": "Z:\\2023-2024 \u0443\u0447.\u0433\u043E\u0434\\31\u0418\u0421\\1_\u041D\u0430\u0448\u0438 \u043F\u0430\u043F\u043A\u0438\\\u0421\u0442\u0440\u0435\u043B\u044C\u043D\u0438\u043A\u043E\u0432\u0430\\\u041F\u0430\u043E\u043A\u0438\u043D\\PK\u0418\u0421\\\u041B\u04207\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-24T10:23:52.97Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
